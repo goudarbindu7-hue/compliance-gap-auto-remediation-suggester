@@ -1,0 +1,1 @@
+Provide exactly 3 remediation steps as JSON array with keys action_type, description, priority for: {gap}
